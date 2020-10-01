@@ -154,6 +154,8 @@ New features:
   similar to ``beet modify``
 * :doc:`/plugins/web`: add DELETE and PATCH methods for modifying items
 * :doc:`/plugins/lyrics`: Removed LyricWiki source (shut down on 21/09/2020).
+* :doc:`/plugins/export`: big speedups when `--include-keys` option is used
+  Thanks to :user:`ssssam`.
 
 Fixes:
 
